@@ -1,5 +1,8 @@
 _repo: Il-tesoro-di-Donnina_64106
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64106-h/images/cover.jpg
 creator:
   author:
     agent_name: Farina, Salvatore
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Salvatore_Farina
     - https://it.wikipedia.org/wiki/Salvatore_Farina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64106#Il-tesoro-di-Donnina
 gutenberg_issued: '2020-12-22'
 gutenberg_type: Text
 identifiers:
